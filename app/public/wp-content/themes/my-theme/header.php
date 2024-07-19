@@ -14,7 +14,7 @@
 <body <?php body_class(); ?>>
     <header>
         <p>サイトタイトル</p>
-        <div><?php echo do_shortcode('[ivory-search id="39" title="Custom Search Form_copy"]'); ?></div>
+        <div>ガイド日付<?php echo do_shortcode('[ivory-search id="15" title="Search Form Guide Date"]'); ?></div>
         <nav>
             <ul>
                 <li><a href="<?php echo home_url(); ?>">Home</a></li>
